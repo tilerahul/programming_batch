@@ -1,4 +1,4 @@
-class ByteConverion 
+class ArmstrongNum 
 {
 	public static void main(String[] args) 
 	{
